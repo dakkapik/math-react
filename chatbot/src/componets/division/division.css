@@ -1,0 +1,13 @@
+.division-container
+{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.division-container > div
+{
+    
+    font-size: 10vh;
+}

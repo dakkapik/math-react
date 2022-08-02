@@ -1,0 +1,19 @@
+.vinculum-container
+{
+    /* display: flex; */
+    
+}
+
+.vinculum-explaination
+{
+    position: absolute;
+    left: 0;
+    font-size: 20px;
+}
+
+.vinculum-line
+{
+    background-color: black;
+    width: 40vw;
+    height: 2vh;
+}

@@ -1,0 +1,21 @@
+.integer-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.integer-container > h5 {
+    /* font-size: 10px; */
+}
+
+.integer-explained
+{
+    overflow-y: scroll;
+    font-size: 20px;
+    right: 0;
+    position: absolute;
+    text-overflow: ellipsis;
+    width: 30vw;
+    height: 30vh;
+    
+}
