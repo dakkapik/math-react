@@ -1,0 +1,18 @@
+.sidebar-container {
+    position: fixed;
+    left: 0;
+    background-color: gray;
+    height: 100%;
+}
+
+.sidebar-list {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.sidebar-list > div {
+    text-transform: capitalize;
+    padding: 2vh 2vw;
+    font-weight: 600;
+    color: #000000;
+}
